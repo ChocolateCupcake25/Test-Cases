@@ -1,37 +1,37 @@
 Test Case 1
 Number of Spawned Cars = 10
 Collision = yes
-Time in seconds = 57 sec.
+Time in seconds = 38.41 sec.
 
 Test Case 2
 Number of Spawned Cars = 20
 Collision = yes
-Time in seconds = 56 sec.
+Time in seconds = 45.91 sec
 
 Test Case 3
 Number of Spawned Cars =30
-Collision = yes
-Time in seconds = 96 sec.
+Collision =yes
+Time in seconds = 22.11 sec.
 
 Test Case 4
 Number of Spawned Cars = 40
 Collision = yes
-Collided with = pole
-Time in seconds = 55 sec.
-Collison intensity = 11877
+Collided with =wall
+Time in seconds = 37.42 sec
+Collison intensity = 5855.17
 
 
 Test Case 5
 Number of Spawned Cars = 50
 Collision = yes
-Collided with = MustangMustang
-Time in seconds =48
-Collison intensity = 739
+Collided with = wall
+Time in seconds = 36.65 sec
+Collison intensity = 6324.37
 
 
 Test Case 6
 Number of Spawned Cars = 60
 Collision = yes
-Collided with = Pedestrian0003
-Time in seconds = 68
-Collison intensity = 30
+Collided with = building
+Time in seconds = 52.06
+Collison intensity = 8514.61
